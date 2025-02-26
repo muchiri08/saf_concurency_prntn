@@ -2,7 +2,8 @@ import java.util.concurrent.ExecutionException;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 
-//block, loose, debug
+//threads&runnables
+//block, loose
 public class Sample2 {
     public static void main(String[] args) {
 

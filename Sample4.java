@@ -16,7 +16,6 @@ public class Sample4 {
 
     static String serviceOne() {
         return "Service One Result!";
-        // throw new RuntimeException("Boom!");
     }
 
     static String serviceTwo() {
