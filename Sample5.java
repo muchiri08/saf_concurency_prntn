@@ -12,7 +12,6 @@ public class Sample5 {
             } catch (InterruptedException e) {
                 e.printStackTrace();
             }
-
         }
     }
 
